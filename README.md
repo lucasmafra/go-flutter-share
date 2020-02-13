@@ -1,4 +1,4 @@
-# open_file
+# share
 
 This Go package has a noop host-side implementation of the Flutter [share](https://github.com/flutter/plugins/tree/master/packages/share) plugin.
 
