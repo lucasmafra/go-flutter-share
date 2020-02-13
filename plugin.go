@@ -1,9 +1,6 @@
 package share
 
 import (
-	"github.com/pkg/errors"
-	"github.com/skratchdot/open-golang/open"
-
 	flutter "github.com/go-flutter-desktop/go-flutter"
 	"github.com/go-flutter-desktop/go-flutter/plugin"
 )
